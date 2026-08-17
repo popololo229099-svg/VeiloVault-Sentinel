@@ -39,7 +39,7 @@ func (d *PostgresDB) Migrate() error {
 			signature VARCHAR(128),
 			type VARCHAR(32) NOT NULL,
 			status VARCHAR(32) NOT NULL,
-			pool VARCHAR(64) NOT NULL",
+			pool VARCHAR(64) NOT NULL,
 			"from" VARCHAR(64),
 			"to" VARCHAR(64),
 			amount BIGINT DEFAULT 0,

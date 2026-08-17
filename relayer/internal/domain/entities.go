@@ -7,6 +7,9 @@ import (
 	"github.com/gagliardetto/solana-go"
 )
 
+// ProgramID is the on-chain program address for Veilo Layer.
+var ProgramID = solana.MustPublicKeyFromBase58("GYy4kM6GHhpgLCUscuABbzkD2ZbJ2fneYryaZ6Ch7fFU")
+
 // Transaction represents a relay transaction.
 type Transaction struct {
 	ID          string           `json:"id" db:"id"`

@@ -15,7 +15,6 @@ import (
 	"github.com/rs/zerolog"
 	"github.com/spf13/viper"
 
-	"github.com/popolo229099-svg/veilo-relayer/internal/domain"
 	"github.com/popolo229099-svg/veilo-relayer/internal/infrastructure/cache"
 	"github.com/popolo229099-svg/veilo-relayer/internal/infrastructure/database"
 	solanaClient "github.com/popolo229099-svg/veilo-relayer/internal/infrastructure/solana"
