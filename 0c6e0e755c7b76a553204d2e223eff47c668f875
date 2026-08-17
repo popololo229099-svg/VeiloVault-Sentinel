@@ -1,0 +1,32 @@
+SECURITY_AUDIT.md
+  h_fe97e5da36df4c 1-297
+findings/VV-01-perps-native-reissue-fee-skip.md
+  h_fe97e5da36df4c 1-121
+findings/VV-02-swap-data-hash-not-proof-bound.md
+  h_fe97e5da36df4c 1-86
+findings/VV-03-phoenix-slot-cap-inflation.md
+  h_fe97e5da36df4c 1-47
+findings/VV-04-phoenix-ember-unwrap-no-claimant-signer.md
+  h_fe97e5da36df4c 1-31
+findings/VV-05-vault-token-unconstrained-native-sol.md
+  h_fe97e5da36df4c 1-42
+findings/VV-06-perps-remaining-accounts-unvalidated.md
+  h_fe97e5da36df4c 1-26
+findings/VV-07-perps-slot-reissued-unbounded.md
+  h_fe97e5da36df4c 1-46
+findings/VV-08-through-VV-12.md
+  h_fe97e5da36df4c 1-49
+tests/SECURITY_TESTS.md
+  h_fe97e5da36df4c 1-144
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "0c6e0e755c7b76a553204d2e223eff47c668f875",
+  "prompts": {},
+  "humans": {
+    "h_fe97e5da36df4c": {
+      "author": "popololo229099-svg <popololo229099@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+audit-dashboard/.gitignore
+  s_8b43fb11de8bbd::t_635be9672bd7e7 1-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "75ea8f5340699cff60554793f903287b77ca0493",
+  "prompts": {},
+  "sessions": {
+    "s_8b43fb11de8bbd": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ff219f39cffeVHqqa6SYZdU61P",
+        "model": "unknown"
+      },
+      "human_author": "popololo229099-svg <popololo229099@gmail.com>"
+    }
+  }
+}

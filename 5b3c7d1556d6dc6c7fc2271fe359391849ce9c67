@@ -1,0 +1,28 @@
+audit-dashboard/next.config.ts
+  h_fe97e5da36df4c 1-7
+audit-dashboard/package.json
+  h_fe97e5da36df4c 1-26
+audit-dashboard/postcss.config.mjs
+  h_fe97e5da36df4c 1-7
+audit-dashboard/src/app/globals.css
+  h_fe97e5da36df4c 1-34
+audit-dashboard/src/app/layout.tsx
+  h_fe97e5da36df4c 1-29
+audit-dashboard/src/app/page.tsx
+  h_fe97e5da36df4c 1-148
+audit-dashboard/src/lib/findings.ts
+  h_fe97e5da36df4c 1-188
+audit-dashboard/tsconfig.json
+  h_fe97e5da36df4c 1-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "5b3c7d1556d6dc6c7fc2271fe359391849ce9c67",
+  "prompts": {},
+  "humans": {
+    "h_fe97e5da36df4c": {
+      "author": "popololo229099-svg <popololo229099@gmail.com>"
+    }
+  }
+}
