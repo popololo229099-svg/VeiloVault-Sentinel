@@ -1,0 +1,105 @@
+relayer/Dockerfile
+  s_8b43fb11de8bbd::t_fc465ba9806915 1-31
+relayer/internal/concurrency/advanced.go
+  s_8b43fb11de8bbd::t_60568847b06944 1-277
+relayer/internal/concurrency/atomic.go
+  s_8b43fb11de8bbd::t_1a73e4189ab4f9 1-149
+relayer/internal/concurrency/future.go
+  s_8b43fb11de8bbd::t_53bed7e5fdfe19 1-97
+relayer/internal/concurrency/pool.go
+  s_8b43fb11de8bbd::t_4dd911578ae4cd 1-171
+relayer/internal/concurrency/queue.go
+  s_8b43fb11de8bbd::t_2a0ab12634d825 1-128
+relayer/internal/concurrency/sync.go
+  s_8b43fb11de8bbd::t_057fcc206e7441 1-195
+relayer/internal/data/advanced.go
+  s_8b43fb11de8bbd::t_ce6607beb5139d 1-339
+relayer/internal/data/cache.go
+  s_8b43fb11de8bbd::t_e374a6a3b78c97 1-201
+relayer/internal/data/models.go
+  s_8b43fb11de8bbd::t_c0f18265ddaad1 1-116
+relayer/internal/data/patterns.go
+  s_8b43fb11de8bbd::t_94183cd91c284b 1-232
+relayer/internal/data/structures.go
+  s_8b43fb11de8bbd::t_2f8f051935b9e9 1-636
+relayer/internal/events/eventbus.go
+  s_8b43fb11de8bbd::t_7f184075512ff2 1-219
+relayer/internal/factory/transaction_builder.go
+  s_8b43fb11de8bbd::t_6fa5ed8b7d6977 1-212
+relayer/internal/lifecycle/lifecycle.go
+  s_8b43fb11de8bbd::t_eff4ea98e9043f 1-201
+relayer/internal/lifecycle/plugins.go
+  s_8b43fb11de8bbd::t_56b10f85cf64f4 1-173
+relayer/internal/metrics/advanced.go
+  s_8b43fb11de8bbd::t_24a83bc3f67f53 1-272
+relayer/internal/metrics/metrics.go
+  s_8b43fb11de8bbd::t_2371c81347df47 1-203
+relayer/internal/middleware/middleware.go
+  s_8b43fb11de8bbd::t_77262f7ba82b67 1-134
+relayer/internal/pattern/adapter.go
+  s_8b43fb11de8bbd::t_3321885004a42c 1-70
+relayer/internal/pattern/chain.go
+  s_8b43fb11de8bbd::t_1615cb7c8a11b4 1-162
+relayer/internal/pattern/command.go
+  s_8b43fb11de8bbd::t_452ec0ff901541 1-161
+relayer/internal/pattern/decorator.go
+  s_8b43fb11de8bbd::t_8502b1686180b9 1-148
+relayer/internal/pattern/errors.go
+  s_8b43fb11de8bbd::t_11520c818f698e 1-17
+relayer/internal/pattern/facade.go
+  s_8b43fb11de8bbd::t_c656f365dd014f 1-85
+relayer/internal/pattern/health.go
+  s_8b43fb11de8bbd::t_cd66b248cee3d6 1-179
+relayer/internal/pattern/observer.go
+  s_8b43fb11de8bbd::t_d20eabc0f6e10a 1-125
+relayer/internal/pattern/proxy.go
+  s_8b43fb11de8bbd::t_828d8da379cd94 1-232
+relayer/internal/pattern/state.go
+  s_8b43fb11de8bbd::t_1fe9a39dd22dd8 1-167
+relayer/internal/pattern/strategy.go
+  s_8b43fb11de8bbd::t_be02b00cf88fe2 1-197
+relayer/internal/pattern/template.go
+  s_8b43fb11de8bbd::t_310787c307a1b4 1-166
+relayer/internal/pattern/utils.go
+  s_8b43fb11de8bbd::t_a3322ca20c67d6 1-177
+relayer/internal/resilience/advanced.go
+  s_8b43fb11de8bbd::t_3ad8ecc2199179 1-215
+relayer/internal/resilience/bulkhead.go
+  s_8b43fb11de8bbd::t_c4243a6aed3481 1-113
+relayer/internal/resilience/circuit_breaker.go
+  s_8b43fb11de8bbd::t_9fdcd6d5cd5ef1 1-229
+relayer/internal/resilience/ratelimiter.go
+  s_8b43fb11de8bbd::t_db8195df099c09 1-183
+relayer/internal/resilience/retry.go
+  s_8b43fb11de8bbd::t_540ffa489074c6 1-151
+relayer/internal/resilience/timeout.go
+  s_8b43fb11de8bbd::t_39f222a9fa2441 1-116
+relayer/internal/solana/encoder/decoder.go
+  s_8b43fb11de8bbd::t_5bec172ca8ec7b 1-148
+relayer/internal/solana/encoder/encoder.go
+  s_8b43fb11de8bbd::t_e4223fe6e6f35c 1-265
+relayer/internal/solana/encoder/json.go
+  s_8b43fb11de8bbd::t_18a8aa1b7e4e44 1-93
+relayer/internal/validation/advanced.go
+  s_8b43fb11de8bbd::t_52ceebd5fb9d2e 1-174
+relayer/internal/validation/solana.go
+  s_8b43fb11de8bbd::t_bc0dacf0cb54a0 1-109
+relayer/internal/validation/validator.go
+  s_8b43fb11de8bbd::t_ba093af8ee7e78 1-89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "f11405d010fa9df1d2fb79aff62a4e7e1e0aa0cb",
+  "prompts": {},
+  "sessions": {
+    "s_8b43fb11de8bbd": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ff219f39cffeVHqqa6SYZdU61P",
+        "model": "unknown"
+      },
+      "human_author": "popololo229099-svg <popololo229099@gmail.com>"
+    }
+  }
+}
