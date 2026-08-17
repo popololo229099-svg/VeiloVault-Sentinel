@@ -13,17 +13,15 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "VeiloVault Sentinel - Security Audit",
-  description: "Comprehensive security audit of the Veilo Privacy Pool program on Solana",
+  title: "VeiloVault Sentinel | Security Audit Dashboard",
+  description: "Comprehensive security audit of the Veilo Privacy Pool Program on Solana — Groth16 ZK-SNARK privacy protocol",
+  icons: { icon: "/favicon.ico" },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased dark`}
-    >
-      <body className="min-h-full flex flex-col bg-zinc-950 text-zinc-100">{children}</body>
+    <html lang="en" className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}>
+      <body className="min-h-full flex flex-col">{children}</body>
     </html>
   );
 }
