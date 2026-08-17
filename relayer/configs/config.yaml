@@ -1,0 +1,29 @@
+# Veilo Relayer Configuration
+
+server:
+  host: "0.0.0.0"
+  port: "8080"
+
+solana:
+  rpc: "https://api.mainnet-beta.solana.com"
+  ws: "wss://api.mainnet-beta.solana.com"
+
+database:
+  host: "localhost"
+  port: 5432
+  name: "veilo_relayer"
+  user: "postgres"
+  password: "postgres"
+
+redis:
+  host: "localhost"
+  port: 6379
+
+relayer:
+  private_key: ""  # Set via environment variable RELAYER_PRIVATE_KEY
+  fee_bps: 50      # 0.5% fee
+  min_fee: 1000000  # 0.001 SOL minimum fee
+
+logging:
+  level: "info"
+  format: "console"
