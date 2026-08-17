@@ -4,6 +4,8 @@
 
 <h1 align="center">VeiloVault Sentinel</h1>
 
+<img width="1913" height="917" alt="adfgas" src="https://github.com/user-attachments/assets/06f20d66-6e34-4c30-9e58-add193a93c25" />
+<img width="1678" height="801" alt="ebdbs" src="https://github.com/user-attachments/assets/2fa2c321-2d68-4046-8e3f-50a04f10f79a" />
 <p align="center">
   <strong>Security Audit + Go SDK + Relayer Backend for Veilo Privacy Pool</strong><br/>
   <sub>Groth16 ZK-SNARK Privacy Protocol on Solana</sub>
