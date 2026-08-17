@@ -1,0 +1,19 @@
+README.md
+  s_8b43fb11de8bbd::t_3a91c8324133b3 1-32,34,36,38-47,53-55,57,59-63,65-74,76,78-87,89,91-136,142-146,149,151,153,155-166,170-176,178-180,182,188-286,292-344,346-347,349-405,409-434,436-440,448-458,460-461,463-466,469,471,473,475-480,482,486-488,490-492,494-496
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "0e9a9b02486122d26daa35a47c4a667f594be79d",
+  "prompts": {},
+  "sessions": {
+    "s_8b43fb11de8bbd": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ff219f39cffeVHqqa6SYZdU61P",
+        "model": "unknown"
+      },
+      "human_author": "popololo229099-svg <popololo229099@gmail.com>"
+    }
+  }
+}
